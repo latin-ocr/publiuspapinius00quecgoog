@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./publiuspapinius00quecgoog/publiuspapinius00quecgoog_0035.png"; bbox 0 0 3134 4434; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 517 1689 958 1787">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 517 1689 958 1787">
+     <span class='ocr_line' id='line_1_1' title="bbox 517 1689 958 1787; baseline -0.005 -1"><span class='ocrx_word' id='word_1_1' title='bbox 517 1690 562 1786; x_wconf 83' lang='lat' dir='ltr'>P.</span> <span class='ocrx_word' id='word_1_2' title='bbox 593 1689 767 1787; x_wconf 83' lang='grc' dir='ltr'>ΡΑΡΙΝΙΙ</span> <span class='ocrx_word' id='word_1_3' title='bbox 799 1690 958 1787; x_wconf 79' lang='lat' dir='ltr'>STATll</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 331 1973 1223 2091">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 331 1973 1223 2091">
+     <span class='ocr_line' id='line_1_2' title="bbox 331 1973 1223 2091; baseline -0.008 0"><span class='ocrx_word' id='word_1_4' title='bbox 331 1973 1223 2091; x_wconf 79' lang='lat' dir='ltr'><strong>SILVARUM&#39;</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 576 2283 894 2364">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 576 2283 894 2364">
+     <span class='ocr_line' id='line_1_3' title="bbox 576 2283 894 2364; baseline -0.009 0"><span class='ocrx_word' id='word_1_5' title='bbox 576 2283 798 2364; x_wconf 77' lang='lat' dir='ltr'>LIBRI</span> <span class='ocrx_word' id='word_1_6' title='bbox 858 2283 894 2361; x_wconf 75' lang='lat' dir='ltr'>V.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1572 4434">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1572 4434">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1572 4434; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1572 4434; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
